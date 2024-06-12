@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directories
+.npm
+
+# lock-files
+package-lock.json
+
+# sessions file
+Credential.json
+
+baileys_auth_info/
