@@ -9,3 +9,4 @@ package-lock.json
 Credential.json
 
 baileys_auth_info/
+node_modules/
